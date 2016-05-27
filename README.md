@@ -19,4 +19,4 @@ My domain is a bank with the following features:
 
 ## Credits
 
-The code base (starter-kit) was built by Jonathan Worthington and Carl Mäsak as part of their work at [Edument](http://www.edument.se/).
+The code base ('starter-kit' and 'sample-app') was built by Jonathan Worthington and Carl Mäsak as part of their work at [Edument](http://www.edument.se/).
